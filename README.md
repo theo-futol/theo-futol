@@ -1,4 +1,4 @@
-### Hi, me it's WayZe 👋
+### Hi, me it's Xed 👋
 
 - I am learning the field of development since approximately 2021
 - LUA On FiveM
