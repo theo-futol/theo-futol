@@ -1,7 +1,7 @@
 ### Hi, me it's Xed 👋
 
 - I am learning the field of development since approximately 2021
-- LUA On FiveM
+- Principally LUA On FiveM
 - 17 years old
 
 [![Xed github stats](https://github-readme-stats.vercel.app/api?username=Xed974)](https://github.com/anuraghazra/github-readme-stats)
