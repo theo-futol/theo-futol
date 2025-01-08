@@ -20,4 +20,4 @@ I’m Théo Futol, a first-year student at Epitech. Passionate about coding and 
 
 ### 📫 Let’s Connect
 
-- [Linkedin] https://www.linkedin.com/in/theo-futol
+- [Linkedin](#) https://www.linkedin.com/in/theo-futol
