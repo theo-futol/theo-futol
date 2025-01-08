@@ -1,6 +1,6 @@
 ### Hi there ! 👋
 
-I’m Théo Futol, a first-year student at Epitech. Passionate about coding and problem-solving. 🚀
+I’m Théo Futol, a first-year student at Epitech. Passionate about coding and problem-solving.
 
 ---
 
@@ -13,7 +13,7 @@ I’m Théo Futol, a first-year student at Epitech. Passionate about coding and 
 
 ## 🔧 Skills & Interests
 
-- Languages: C, Python, Lua(learning more!)
+- Languages: C, Python, Lua (learning more!)
 - Interests: Algorithms, Software Development
 - Hobbies: Motorbike
 
