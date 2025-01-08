@@ -23,5 +23,5 @@ I’m currently working on small projects and exercises to sharpen my programmin
 
 ## 📫 Let’s Connect
 
-- [Linkedin]https://www.linkedin.com/in/theo-futol
-- [Contact]theo.futol@epitech.eu
+- [LinkedIn](https://www.linkedin.com/in/theo-futol)
+- [Mail](theo.futol@epitech.eu)
