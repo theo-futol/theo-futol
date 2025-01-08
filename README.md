@@ -1,6 +1,19 @@
-### Hi, me it's Xed 👋
+### Hi there ! 👋
 
-- I am learning the field of development since approximately 2021
-- Principally LUA On FiveM
+I’m Théo Futol, a first-year student at Epitech. Passionate about coding and problem-solving. 🚀
 
-[![Xed github stats](https://github-readme-stats.vercel.app/api?username=Xed974)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🌟 About Me
+
+-
+-
+
+### 🔧 Skills & Interests
+
+- Languages: C
+
+### 💼 Projects
+
+### 📫 Let’s Connect
+
