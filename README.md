@@ -1,6 +1,6 @@
 ### Hi there ! 👋
 
-I’m Théo Futol, a first-year student at Epitech. Passionate about coding and problem-solving.
+I’m Théo Futol, a second-year student at Epitech. Passionate about coding and problem-solving.
 
 ---
 
@@ -25,3 +25,4 @@ I’m currently working on small projects and exercises to sharpen my programmin
 
 - [LinkedIn](https://www.linkedin.com/in/theo-futol)
 - [Mail](theo.futol@epitech.eu)
+
