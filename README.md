@@ -11,7 +11,3 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-futol&layout=compact&theme=tokyonight)
-
----
-
-⭐️ From [Théo](https://github.com/theo-futol)
