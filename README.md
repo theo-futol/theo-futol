@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @YourUsername
+# 👋 Hi, I’m @Théo Futol
 
 ## 🚀 About Me
 - I study at Epitech
@@ -11,8 +11,6 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-futol&layout=compact&theme=tokyonight)
-
-![snake gif](https://github.com/YourUsername/theo-futol/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
