@@ -15,7 +15,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: YourUsername
+          github_user_name: theo-futol
           outputs: dist/github-contribution-grid-snake.gif
 
       - name: Push snake to output branch
