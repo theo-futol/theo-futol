@@ -1,28 +1,19 @@
-### Hi there ! 👋
+# 👋 Hi, I’m @YourUsername
 
-I’m Théo Futol, a second-year student at Epitech. Passionate about coding and problem-solving.
+## 🚀 About Me
+- I study at Epitech
+- I’m always open to new opportunities to learn and grow my skills.
+- Reach me at: [LinkedIn](https://linkedin.com/in/theo-futol) | [Email](mailto:theo.futol@epitech.eu)
+- Fun fact: I started coding on FiveM and I’d be happy to talk more about it!
 
 ---
 
-## 🌟 About Me
+## 📊 GitHub Stats
 
-- 🎓 Epitech Student 1st year
-- 💻 Learning C, Python, and other exciting technologies
-- 🌱 Currently improving my algorithmic and problem-solving skills
-- 🚀 Exploring software development, web technologies, and more
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-futol&layout=compact&theme=tokyonight)
 
-## 🔧 Skills & Interests
+![snake gif](https://github.com/YourUsername/theo-futol/blob/output/github-contribution-grid-snake.gif)
 
-- Languages: C, Python, Lua (learning more!)
-- Interests: Algorithms, Software Development, Data
-- Hobbies: Motorbike
+---
 
-## 💼 Projects
-
-I’m currently working on small projects and exercises to sharpen my programming skills. Stay tuned for exciting repositories!
-
-## 📫 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/theo-futol)
-- [Mail](theo.futol@epitech.eu)
-
+⭐️ From [Théo](https://github.com/theo-futol)
